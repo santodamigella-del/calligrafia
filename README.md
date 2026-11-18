@@ -20,7 +20,7 @@ Il progetto offre uno spazio di scrittura e una biblioteca storica consultabile 
 
 ## Tradizioni incluse
 
-Il catalogo comprende stili occidentali, arabi, persiani, cinesi e giapponesi, tra cui mani storiche come onciale, semionciale, carolina, gotica, cancelleresca, Copperplate e Spencerian, oltre alla moderna brush lettering.
+Il catalogo comprende stili occidentali, arabi, persiani, cinesi e giapponesi, tra cui mani storiche come onciale, semionciale, carolina, gotica, cancelleresca, Copperplate e Spencerian.
 
 ## Struttura dell'app
 
@@ -40,16 +40,29 @@ Il catalogo comprende stili occidentali, arabi, persiani, cinesi e giapponesi, t
 
 - Android Studio
 - JDK compatibile con il progetto
-- Un dispositivo o emulator Android
+- Un dispositivo o emulatore Android
 
 ## Compilazione
 
 1. Aprire il repository in Android Studio.
 2. Attendere il completamento della sincronizzazione Gradle.
-3. Selezionare un dispositivo o un emulator.
+3. Selezionare un dispositivo o un emulatore.
 4. Avviare l'app dal progetto `app`.
 
-In alternativa, su Windows è possibile usare:
+### Linux
+
+Su Linux sono necessari un JDK compatibile con il progetto e l'Android SDK. È possibile installarli tramite Android Studio e aprire il repository nell'IDE, oppure compilare da terminale dalla directory principale del progetto:
+
+```bash
+chmod +x ./gradlew
+./gradlew assembleDebug
+```
+
+L'APK Android verrà generato in `app/build/outputs/apk/debug/`. Questa procedura compila l'app Android usando Linux; non crea una versione desktop nativa per Linux.
+
+### Windows
+
+Su Windows è possibile usare:
 
 ```bat
 gradlew.bat assembleDebug
@@ -59,7 +72,7 @@ Il file APK verrà generato nella directory `app/build/outputs/apk/debug/`.
 
 ## Note didattiche
 
-Le descrizioni e i modelli inclusi nell'app hanno una funzione introduttiva e didattica. Per ricostruire una specifica mano storica o una variante regionale è consigliabile confrontarli con manuali ed esemplari documentati.
+Le descrizioni e i modelli inclusi nell'app hanno una funzione introduttiva e didattica. Per ricostruire una specifica mano storica o una variante regionale è consigliabile confrontarli con manuali e fonti specialistiche.
 
 ## Licenza
 
