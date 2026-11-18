@@ -49,9 +49,17 @@ Il catalogo comprende stili occidentali, arabi, persiani, cinesi e giapponesi, t
 3. Selezionare un dispositivo o un emulatore.
 4. Avviare l'app dal progetto `app`.
 
-### Linux
+### Linux: versione AppImage
 
-Su Linux sono necessari un JDK compatibile con il progetto e l'Android SDK. È possibile installarli tramite Android Studio e aprire il repository nell'IDE, oppure compilare da terminale dalla directory principale del progetto:
+Per usare l'app su Linux come applicazione desktop, scaricare il pacchetto AppImage:
+
+[Scarica Calligrafia Studio per Linux (pacchetto AppImage .zip)](https://github.com/santodamigella-del/calligrafia/raw/refs/heads/master/CalligrafiaStudio_catalogo_35_stili_aggiornato%2814%29.zip)
+
+Estrarre l'archivio ZIP e seguire le istruzioni contenute in `CalligrafiaStudio-AppImage-kit/LEGGIMI.txt`.
+
+### Linux: compilazione dell'APK Android
+
+Su Linux sono necessari un JDK compatibile con il progetto e l'Android SDK. È possibile installarli tramite Android Studio e aprire il repository nell'IDE, oppure compilare da terminale dalla directory del progetto:
 
 ```bash
 chmod +x ./gradlew
