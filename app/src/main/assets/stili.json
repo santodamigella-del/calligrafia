@@ -1,0 +1,1355 @@
+[
+  {
+    "id": "occidentale_onciale",
+    "nome": "Onciale",
+    "tradizione": "Occidentale",
+    "periodo": "Tarda antichità e primo Medioevo",
+    "area": "Europa e Mediterraneo latino",
+    "descrizione": "Scrittura libraria arrotondata, usata soprattutto per manoscritti in latino e greco. Le forme ampie e relativamente regolari si prestavano alla copia di testi; le varianti cambiano secondo epoca e luogo.",
+    "caratteristiche": [
+      "forme arrotondate",
+      "andamento librario",
+      "lettere ampie"
+    ],
+    "strumenti": "Penna e inchiostro su pergamena o altri supporti.",
+    "font_digitali": [
+      "EB Garamond",
+      "Almendra"
+    ],
+    "nota_font": "Alternative estetiche moderne, non riproduzioni esatte.",
+    "fonti": [
+      {
+        "titolo": "British Library — Medieval manuscripts",
+        "url": "https://www.bl.uk/manuscripts/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_semionciale",
+    "nome": "Semionciale",
+    "tradizione": "Occidentale",
+    "periodo": "Tarda antichità e alto Medioevo",
+    "area": "Europa occidentale e Mediterraneo",
+    "descrizione": "Famiglia di scritture librarie con forme più vicine alla minuscola rispetto all'onciale. Il nome raccoglie mani diverse e non indica un modello unico.",
+    "caratteristiche": [
+      "forme minuscole",
+      "aste ascendenti e discendenti",
+      "varianti regionali"
+    ],
+    "strumenti": "Penna e inchiostro, spesso su pergamena.",
+    "font_digitali": [
+      "EB Garamond",
+      "Almendra"
+    ],
+    "nota_font": "Sostituti visivi contemporanei.",
+    "fonti": [
+      {
+        "titolo": "Bodleian Libraries Digital Collections",
+        "url": "https://digital.bodleian.ox.ac.uk/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_carolina",
+    "nome": "Minuscola carolina",
+    "tradizione": "Occidentale",
+    "periodo": "Dalla fine dell'VIII secolo",
+    "area": "Impero carolingio e aree europee collegate",
+    "descrizione": "Scrittura minuscola libraria sviluppatasi nell'età carolingia. Lettere distinte, spaziatura e forme regolari favorivano lettura e copiatura; le mani locali presentano differenze.",
+    "caratteristiche": [
+      "lettere ben separate",
+      "forme regolari",
+      "buona leggibilità"
+    ],
+    "strumenti": "Penna a punta larga e inchiostro su pergamena.",
+    "font_digitali": [
+      "EB Garamond",
+      "Almendra"
+    ],
+    "nota_font": "Non ricostruiscono esattamente la minuscola carolina.",
+    "fonti": [
+      {
+        "titolo": "Ad fontes — University of Zurich",
+        "url": "https://www.adfontes.uzh.ch/en/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_textura",
+    "nome": "Gotica Textura",
+    "tradizione": "Occidentale",
+    "periodo": "Soprattutto XII–XV secolo",
+    "area": "Europa occidentale e centrale",
+    "descrizione": "Scrittura gotica libraria con lettere strette, verticali e fitte, dal ritmo compatto. È associata ai libri medievali; la densità può rendere la lettura meno immediata per chi non è abituato.",
+    "caratteristiche": [
+      "aste verticali",
+      "tratti angolosi",
+      "testo fitto"
+    ],
+    "strumenti": "Penna a punta larga; pergamena e poi carta.",
+    "font_digitali": [
+      "UnifrakturMaguntia",
+      "Pirata One"
+    ],
+    "nota_font": "Font moderni ispirati al gotico, non facsimili storici.",
+    "fonti": [
+      {
+        "titolo": "British Library — Medieval manuscripts",
+        "url": "https://www.bl.uk/manuscripts/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_rotunda",
+    "nome": "Gotica Rotunda",
+    "tradizione": "Occidentale",
+    "periodo": "Dal tardo XII secolo",
+    "area": "Italia e altre aree dell'Europa meridionale",
+    "descrizione": "Variante gotica con forme generalmente più arrotondate e meno spezzate rispetto alla Textura. Le distinzioni tra famiglie gotiche non sono sempre nette.",
+    "caratteristiche": [
+      "forme arrotondate",
+      "ritmo gotico",
+      "contrasto tra pieni e filetti"
+    ],
+    "strumenti": "Penna a punta larga e inchiostro.",
+    "font_digitali": [
+      "Pirata One",
+      "UnifrakturMaguntia"
+    ],
+    "nota_font": "I font disponibili possono risultare più decorativi della Rotunda storica.",
+    "fonti": [
+      {
+        "titolo": "Bodleian Libraries Digital Collections",
+        "url": "https://digital.bodleian.ox.ac.uk/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_umanistica",
+    "nome": "Scrittura umanistica",
+    "tradizione": "Occidentale",
+    "periodo": "XV secolo e oltre",
+    "area": "Italia rinascimentale, poi Europa",
+    "descrizione": "Gli umanisti italiani recuperarono forme della minuscola carolina che ritenevano antiche e leggibili. La scrittura umanistica influenzò profondamente la tipografia romana.",
+    "caratteristiche": [
+      "forme aperte",
+      "proporzioni equilibrate",
+      "leggibilità"
+    ],
+    "strumenti": "Penna a punta larga e inchiostro.",
+    "font_digitali": [
+      "EB Garamond"
+    ],
+    "nota_font": "Un serif moderno evoca alcune caratteristiche, ma non riproduce la tecnica manuale.",
+    "fonti": [
+      {
+        "titolo": "Ad fontes — University of Zurich",
+        "url": "https://www.adfontes.uzh.ch/en/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_cancelleresca",
+    "nome": "Cancelleresca / Italica",
+    "tradizione": "Occidentale",
+    "periodo": "XV–XVI secolo",
+    "area": "Italia, poi Europa",
+    "descrizione": "Scrittura corsiva collegata agli ambienti amministrativi e alla scrittura professionale italiana. I modelli calligrafici svilupparono inclinazione, collegamenti fluidi e forme eleganti.",
+    "caratteristiche": [
+      "inclinazione",
+      "collegamenti fluidi",
+      "tratti modulati"
+    ],
+    "strumenti": "Penna e inchiostro; lo strumento varia secondo il modello.",
+    "font_digitali": [
+      "Italianno",
+      "Tangerine",
+      "Allura"
+    ],
+    "nota_font": "Font script moderni, non copie esatte della cancelleresca.",
+    "fonti": [
+      {
+        "titolo": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/toah/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Costruisci le lettere con tratti continui e raccordi economici, rispettando l'ordine mostrato dal modello. Allenati su aste, ovali, archi e legature prima delle parole.",
+      "strumento": "Pennino a punta tronca o penna a taglio largo, con inchiostro; la larghezza e il taglio vanno scelti in rapporto alla scala della scrittura.",
+      "angolo_pressione": "L'angolo del pennino rispetto alla riga determina la modulazione dei pieni e dei filetti. Mantienilo stabile durante ciascun esercizio; non confondere l'angolo della punta con l'inclinazione delle lettere.",
+      "proporzioni": "Traccia linea di base, altezza delle minuscole, ascendenti e discendenti; controlla inclinazione e spazi interni delle lettere.",
+      "esercizio": "Ripeti aste parallele, ovali, archi e collegamenti; confronta ogni lettera con un modello della stessa scuola e periodo."
+    },
+    "passi_esercizio": [
+      "Traccia linea di base, altezza x, ascendenti e discendenti; aggiungi una guida per l'inclinazione del modello.",
+      "Esegui aste parallele mantenendo costante l'angolo del pennino a punta tronca.",
+      "Allena ovali e archi controllando che il taglio della punta non ruoti involontariamente.",
+      "Collega gruppi di tratti in lettere modello, rispettando il ductus della specifica mano studiata.",
+      "Scrivi una breve sequenza e valuta spaziatura, ritmo, inclinazione e uniformità dei pieni."
+    ]
+  },
+  {
+    "id": "occidentale_copperplate",
+    "nome": "Copperplate / Roundhand",
+    "tradizione": "Occidentale",
+    "periodo": "Soprattutto XVII–XIX secolo",
+    "area": "Gran Bretagna, Europa e Nord America",
+    "descrizione": "Famiglia di scritture formali legate al pennino flessibile e alla riproduzione tramite incisione. I modelli mostrano forte contrasto tra tratti sottili e spessi, inclinazione e legature regolari.",
+    "caratteristiche": [
+      "contrasto di spessore",
+      "inclinazione",
+      "legature e svolazzi"
+    ],
+    "strumenti": "Pennino flessibile e inchiostro.",
+    "font_digitali": [
+      "Pinyon Script",
+      "Great Vibes",
+      "Allura"
+    ],
+    "nota_font": "Font contemporanei ispirati alla scrittura script.",
+    "fonti": [
+      {
+        "titolo": "Smithsonian Libraries and Archives",
+        "url": "https://library.si.edu/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Studia prima le forme di base (aste d'attacco, ovali, discendenti e collegamenti). Nelle aste discendenti il pennino flessibile si apre con pressione controllata; nei risalti e nei raccordi la pressione si alleggerisce. L'ordine preciso dei tratti dipende dalla lettera e dal modello adottato.",
+      "strumento": "Pennino flessibile montato su porta-pennino obliquo o diritto, inchiostro fluido e carta adatta. Il pennino va pulito e caricato senza sommergere il taglio.",
+      "angolo_pressione": "Mantieni costante l'inclinazione di riferimento del modello. Aumenta la pressione gradualmente solo nei tratti discendenti previsti; evita pressioni laterali che possono impuntare il pennino.",
+      "proporzioni": "Imposta altezza x, ascendenti, discendenti, inclinazione e larghezza secondo il modello di riferimento; usa righe guida prima di comporre parole.",
+      "esercizio": "Esercita separatamente filetti, aste con contrasto, ovali e legature. Passa alle lettere complete solo quando i gesti risultano regolari."
+    },
+    "passi_esercizio": [
+      "Prepara righe guida per linea di base, altezza x, ascendenti e discendenti; aggiungi la linea d'inclinazione del modello.",
+      "Esegui filetti ascendenti leggeri, senza forzare il pennino e senza farlo impuntare.",
+      "Esercita discendenti con apertura graduale dei rebbi e rilascio progressivo della pressione.",
+      "Ripeti ovali e raccordi separatamente; passa alle lettere solo seguendo un modello Copperplate identificato.",
+      "Confronta inclinazione, contrasto, spazi interni e ritmo; correggi una sola variabile per volta."
+    ]
+  },
+  {
+    "id": "araba_hijazi",
+    "nome": "Hijazi",
+    "tradizione": "Araba e islamica",
+    "periodo": "Primi secoli dell'Islam",
+    "area": "Penisola arabica e primi centri islamici",
+    "descrizione": "Nome usato per alcune delle più antiche mani arabe conservate in manoscritti. Le forme possono essere inclinate e non uniformi; la classificazione dipende spesso dall'analisi paleografica dei frammenti.",
+    "caratteristiche": [
+      "forme antiche",
+      "inclinazione variabile",
+      "testimonianze manoscritte precoci"
+    ],
+    "strumenti": "Calamo e inchiostro su pergamena o carta.",
+    "font_digitali": [],
+    "nota_font": "Meglio usare immagini di manoscritti verificati che un font moderno.",
+    "fonti": [
+      {
+        "titolo": "Library of Congress — Qur’anic Fragments",
+        "url": "https://www.loc.gov/collections/selections-of-arabic-persian-and-ottoman-calligraphy/articles-and-essays/quranic-fragments/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "La scrittura araba procede da destra verso sinistra. Studia la forma isolata e le sue varianti iniziale, mediana e finale: molte lettere cambiano forma in base alla posizione e ai collegamenti. Il ductus preciso va seguito su un modello della specifica scuola calligrafica.",
+      "strumento": "Calamo tagliato (qalam) e inchiostro. La larghezza, la forma e l'orientamento del taglio sono elementi essenziali e variano secondo stile e maestro.",
+      "angolo_pressione": "L'angolo del calamo rispetto alla linea determina il contrasto e la forma dei tratti. Mantieni il taglio stabile; la pressione non va usata come unico mezzo per variare lo spessore.",
+      "proporzioni": "Le proporzioni possono essere impostate usando il punto prodotto dal calamo come unità di misura, secondo le regole della scuola; non applicare una griglia unica a tutti gli stili.",
+      "esercizio": "Pratica prima i tratti fondamentali e le lettere isolate, poi le connessioni. Controlla punti diacritici, spaziatura e direzione da destra a sinistra."
+    },
+    "passi_esercizio": [
+      "Prepara il qalam: verifica taglio netto, punta integra e larghezza coerente con il modello scelto.",
+      "Su una riga di prova, osserva il segno prodotto dal calamo e mantieni costante l'orientamento previsto dalla scuola.",
+      "Esercita i tratti fondamentali presenti nel modello, rispettando la direzione da destra verso sinistra.",
+      "Studia una lettera alla volta nelle forme isolate e collegate; non trasferire la forma isolata alle altre posizioni.",
+      "Controlla proporzioni, punti diacritici e connessioni con un esemplare della stessa scuola."
+    ]
+  },
+  {
+    "id": "araba_kufico",
+    "nome": "Cufico (Kufic)",
+    "tradizione": "Araba e islamica",
+    "periodo": "Primi secoli islamici; varianti successive",
+    "area": "Medio Oriente e mondo islamico",
+    "descrizione": "Famiglia di scritture arabe spesso angolose e dal ritmo monumentale. Comprende varianti manoscritte, architettoniche e geometriche; non esiste un solo modello valido per ogni epoca.",
+    "caratteristiche": [
+      "tratti angolosi",
+      "ritmo geometrico",
+      "impatto monumentale in alcune varianti"
+    ],
+    "strumenti": "Calamo e inchiostro; in architettura anche incisione e piastrelle.",
+    "font_digitali": [],
+    "nota_font": "Scegliere un font specifico per la variante e controllarne la resa.",
+    "fonti": [
+      {
+        "titolo": "Library of Congress — Qur’anic Fragments",
+        "url": "https://www.loc.gov/collections/selections-of-arabic-persian-and-ottoman-calligraphy/articles-and-essays/quranic-fragments/"
+      },
+      {
+        "titolo": "British Museum — The Arab World booklet",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-09/Arab_World_Booklet_Web.pdf"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "La scrittura araba procede da destra verso sinistra. Studia la forma isolata e le sue varianti iniziale, mediana e finale: molte lettere cambiano forma in base alla posizione e ai collegamenti. Il ductus preciso va seguito su un modello della specifica scuola calligrafica.",
+      "strumento": "Calamo tagliato (qalam) e inchiostro. La larghezza, la forma e l'orientamento del taglio sono elementi essenziali e variano secondo stile e maestro.",
+      "angolo_pressione": "L'angolo del calamo rispetto alla linea determina il contrasto e la forma dei tratti. Mantieni il taglio stabile; la pressione non va usata come unico mezzo per variare lo spessore.",
+      "proporzioni": "Le proporzioni possono essere impostate usando il punto prodotto dal calamo come unità di misura, secondo le regole della scuola; non applicare una griglia unica a tutti gli stili.",
+      "esercizio": "Pratica prima i tratti fondamentali e le lettere isolate, poi le connessioni. Controlla punti diacritici, spaziatura e direzione da destra a sinistra."
+    },
+    "passi_esercizio": [
+      "Prepara il qalam: verifica taglio netto, punta integra e larghezza coerente con il modello scelto.",
+      "Su una riga di prova, osserva il segno prodotto dal calamo e mantieni costante l'orientamento previsto dalla scuola.",
+      "Esercita i tratti fondamentali presenti nel modello, rispettando la direzione da destra verso sinistra.",
+      "Studia una lettera alla volta nelle forme isolate e collegate; non trasferire la forma isolata alle altre posizioni.",
+      "Controlla proporzioni, punti diacritici e connessioni con un esemplare della stessa scuola."
+    ]
+  },
+  {
+    "id": "araba_naskh",
+    "nome": "Naskh",
+    "tradizione": "Araba e islamica",
+    "periodo": "Sviluppo medievale; uso ampio dal Medioevo in poi",
+    "area": "Medio Oriente e varie regioni del mondo islamico",
+    "descrizione": "Scrittura corsiva apprezzata per la leggibilità e usata nella copia di libri, manoscritti coranici e altri testi. Proporzioni e dettagli cambiano secondo scuola, periodo e funzione.",
+    "caratteristiche": [
+      "andamento corsivo",
+      "leggibilità",
+      "forme proporzionate"
+    ],
+    "strumenti": "Calamo e inchiostro.",
+    "font_digitali": [],
+    "nota_font": "Richiede un font arabo con collegamento corretto delle lettere e supporto RTL.",
+    "fonti": [
+      {
+        "titolo": "Library of Congress — Qur’anic Fragments",
+        "url": "https://www.loc.gov/collections/selections-of-arabic-persian-and-ottoman-calligraphy/articles-and-essays/quranic-fragments/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "La scrittura araba procede da destra verso sinistra. Studia la forma isolata e le sue varianti iniziale, mediana e finale: molte lettere cambiano forma in base alla posizione e ai collegamenti. Il ductus preciso va seguito su un modello della specifica scuola calligrafica.",
+      "strumento": "Calamo tagliato (qalam) e inchiostro. La larghezza, la forma e l'orientamento del taglio sono elementi essenziali e variano secondo stile e maestro.",
+      "angolo_pressione": "L'angolo del calamo rispetto alla linea determina il contrasto e la forma dei tratti. Mantieni il taglio stabile; la pressione non va usata come unico mezzo per variare lo spessore.",
+      "proporzioni": "Le proporzioni possono essere impostate usando il punto prodotto dal calamo come unità di misura, secondo le regole della scuola; non applicare una griglia unica a tutti gli stili.",
+      "esercizio": "Pratica prima i tratti fondamentali e le lettere isolate, poi le connessioni. Controlla punti diacritici, spaziatura e direzione da destra a sinistra."
+    },
+    "passi_esercizio": [
+      "Prepara il qalam: verifica taglio netto, punta integra e larghezza coerente con il modello scelto.",
+      "Su una riga di prova, osserva il segno prodotto dal calamo e mantieni costante l'orientamento previsto dalla scuola.",
+      "Esercita i tratti fondamentali presenti nel modello, rispettando la direzione da destra verso sinistra.",
+      "Studia una lettera alla volta nelle forme isolate e collegate; non trasferire la forma isolata alle altre posizioni.",
+      "Controlla proporzioni, punti diacritici e connessioni con un esemplare della stessa scuola."
+    ]
+  },
+  {
+    "id": "araba_thuluth",
+    "nome": "Thuluth",
+    "tradizione": "Araba e islamica",
+    "periodo": "Sviluppo dal IX secolo; raffinamenti successivi",
+    "area": "Mondo islamico, con importanti scuole ottomane",
+    "descrizione": "Scrittura araba monumentale e ornamentale, usata spesso in titoli, iscrizioni e decorazioni architettoniche. Le curve e le aste slanciate permettono composizioni elaborate.",
+    "caratteristiche": [
+      "forme monumentali",
+      "curve ampie",
+      "composizione ornamentale"
+    ],
+    "strumenti": "Calamo e inchiostro; applicazioni anche su pietra e piastrelle.",
+    "font_digitali": [],
+    "nota_font": "Un font digitale non sostituisce le regole di composizione tradizionali.",
+    "fonti": [
+      {
+        "titolo": "Library of Congress — Arabic, Persian and Ottoman Calligraphy",
+        "url": "https://blogs.loc.gov/international-collections/2021/03/from-your-hand-to-heaven-arabic-persian-and-ottoman-calligraphy-sheets-at-the-library-of-congress/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "La scrittura araba procede da destra verso sinistra. Studia la forma isolata e le sue varianti iniziale, mediana e finale: molte lettere cambiano forma in base alla posizione e ai collegamenti. Il ductus preciso va seguito su un modello della specifica scuola calligrafica.",
+      "strumento": "Calamo tagliato (qalam) e inchiostro. La larghezza, la forma e l'orientamento del taglio sono elementi essenziali e variano secondo stile e maestro.",
+      "angolo_pressione": "L'angolo del calamo rispetto alla linea determina il contrasto e la forma dei tratti. Mantieni il taglio stabile; la pressione non va usata come unico mezzo per variare lo spessore.",
+      "proporzioni": "Le proporzioni possono essere impostate usando il punto prodotto dal calamo come unità di misura, secondo le regole della scuola; non applicare una griglia unica a tutti gli stili.",
+      "esercizio": "Pratica prima i tratti fondamentali e le lettere isolate, poi le connessioni. Controlla punti diacritici, spaziatura e direzione da destra a sinistra."
+    },
+    "passi_esercizio": [
+      "Prepara il qalam: verifica taglio netto, punta integra e larghezza coerente con il modello scelto.",
+      "Su una riga di prova, osserva il segno prodotto dal calamo e mantieni costante l'orientamento previsto dalla scuola.",
+      "Esercita i tratti fondamentali presenti nel modello, rispettando la direzione da destra verso sinistra.",
+      "Studia una lettera alla volta nelle forme isolate e collegate; non trasferire la forma isolata alle altre posizioni.",
+      "Controlla proporzioni, punti diacritici e connessioni con un esemplare della stessa scuola."
+    ]
+  },
+  {
+    "id": "araba_maghribi",
+    "nome": "Maghribi",
+    "tradizione": "Araba e islamica",
+    "periodo": "Dal Medioevo",
+    "area": "Nord Africa e al-Andalus",
+    "descrizione": "Tradizione calligrafica occidentale del mondo arabo, sviluppatasi in Nord Africa e nella penisola iberica islamica. Presenta varianti locali e storiche da distinguere tra loro.",
+    "caratteristiche": [
+      "forme regionali",
+      "tradizione manoscritta occidentale islamica",
+      "varianti locali"
+    ],
+    "strumenti": "Calamo e inchiostro.",
+    "font_digitali": [],
+    "nota_font": "Richiede font specifici e controllo dei segni diacritici.",
+    "fonti": [
+      {
+        "titolo": "British Museum — The Arab World booklet",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-09/Arab_World_Booklet_Web.pdf"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "La scrittura araba procede da destra verso sinistra. Studia la forma isolata e le sue varianti iniziale, mediana e finale: molte lettere cambiano forma in base alla posizione e ai collegamenti. Il ductus preciso va seguito su un modello della specifica scuola calligrafica.",
+      "strumento": "Calamo tagliato (qalam) e inchiostro. La larghezza, la forma e l'orientamento del taglio sono elementi essenziali e variano secondo stile e maestro.",
+      "angolo_pressione": "L'angolo del calamo rispetto alla linea determina il contrasto e la forma dei tratti. Mantieni il taglio stabile; la pressione non va usata come unico mezzo per variare lo spessore.",
+      "proporzioni": "Le proporzioni possono essere impostate usando il punto prodotto dal calamo come unità di misura, secondo le regole della scuola; non applicare una griglia unica a tutti gli stili.",
+      "esercizio": "Pratica prima i tratti fondamentali e le lettere isolate, poi le connessioni. Controlla punti diacritici, spaziatura e direzione da destra a sinistra."
+    },
+    "passi_esercizio": [
+      "Prepara il qalam: verifica taglio netto, punta integra e larghezza coerente con il modello scelto.",
+      "Su una riga di prova, osserva il segno prodotto dal calamo e mantieni costante l'orientamento previsto dalla scuola.",
+      "Esercita i tratti fondamentali presenti nel modello, rispettando la direzione da destra verso sinistra.",
+      "Studia una lettera alla volta nelle forme isolate e collegate; non trasferire la forma isolata alle altre posizioni.",
+      "Controlla proporzioni, punti diacritici e connessioni con un esemplare della stessa scuola."
+    ]
+  },
+  {
+    "id": "araba_nastaliq",
+    "nome": "Nastaʿliq",
+    "tradizione": "Persiana e islamica",
+    "periodo": "Sviluppo tra XIV e XV secolo",
+    "area": "Persia e Asia meridionale",
+    "descrizione": "Scrittura fluida, spesso associata alla poesia persiana e alle tradizioni librarie dell'Iran e dell'Asia meridionale. L'andamento inclinato richiede font e impaginazione adeguati.",
+    "caratteristiche": [
+      "andamento inclinato",
+      "ritmo fluido",
+      "legame con manoscritti poetici"
+    ],
+    "strumenti": "Calamo e inchiostro.",
+    "font_digitali": [],
+    "nota_font": "Richiede un font Nastaliq specifico e supporto tipografico adeguato.",
+    "fonti": [
+      {
+        "titolo": "British Museum — The Arab World booklet",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-09/Arab_World_Booklet_Web.pdf"
+      },
+      {
+        "titolo": "Library of Congress — Arabic, Persian and Ottoman Calligraphy",
+        "url": "https://www.loc.gov/collections/selections-of-arabic-persian-and-ottoman-calligraphy/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Scomponi la forma secondo un modello verificato della tradizione specifica. Non esiste una sequenza universale applicabile a tutte le scritture.",
+      "strumento": "Calamo e inchiostro.",
+      "angolo_pressione": "Regola angolo e pressione in base alla punta e al gesto previsti dal modello; osserva inizio, variazione e termine di ogni tratto.",
+      "proporzioni": "Rileva proporzioni e allineamenti direttamente da un esemplare attendibile.",
+      "esercizio": "Procedi dai tratti fondamentali alle lettere o ai caratteri, mantenendo un modello di riferimento."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "cinese_oracolare",
+    "nome": "Scrittura su ossa oracolari",
+    "tradizione": "Cinese",
+    "periodo": "Almeno XIII secolo a.C. per gli esempi noti",
+    "area": "Cina antica",
+    "descrizione": "Tra le più antiche testimonianze conosciute della scrittura cinese, incisa soprattutto su ossa e gusci di tartaruga per pratiche divinatorie. I segni appartengono a contesti rituali e storici.",
+    "caratteristiche": [
+      "segni incisi",
+      "forme antiche",
+      "contesto divinatorio"
+    ],
+    "strumenti": "Strumenti da incisione su osso e guscio.",
+    "font_digitali": [],
+    "nota_font": "Usare immagini di reperti: un font non riproduce l'incisione originale.",
+    "fonti": [
+      {
+        "titolo": "Smithsonian National Museum of Asian Art — China’s Calligraphic Arts",
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "cinese_zhuanshu",
+    "nome": "Zhuanshu (scrittura sigillare)",
+    "tradizione": "Cinese",
+    "periodo": "Antica; forme standardizzate in epoca Qin",
+    "area": "Cina",
+    "descrizione": "Famiglia di scritture associata ai sigilli e a forme antiche della scrittura cinese. Le strutture tendono a essere equilibrate e continue; esistono varianti storiche distinte.",
+    "caratteristiche": [
+      "linee uniformi",
+      "forme equilibrate",
+      "associazione con i sigilli"
+    ],
+    "strumenti": "Pennello e inchiostro; incisione per i sigilli.",
+    "font_digitali": [],
+    "nota_font": "Verificare la copertura dei caratteri del font scelto.",
+    "fonti": [
+      {
+        "titolo": "Smithsonian — China’s Calligraphic Arts",
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/"
+      },
+      {
+        "titolo": "Asian Art Museum — An Introduction to Chinese Calligraphy",
+        "url": "https://education.asianart.org/resources/an-introduction-to-chinese-calligraphy/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "cinese_lishu",
+    "nome": "Lishu (scrittura clericale)",
+    "tradizione": "Cinese",
+    "periodo": "Sviluppo durante la dinastia Han",
+    "area": "Cina",
+    "descrizione": "Scrittura storicamente legata agli uffici amministrativi. Mostra tratti distinti e una struttura orizzontale marcata; alcune esecuzioni hanno finali larghi caratteristici.",
+    "caratteristiche": [
+      "struttura orizzontale",
+      "tratti distinti",
+      "finali talvolta allargati"
+    ],
+    "strumenti": "Pennello e inchiostro; esempi anche in iscrizioni.",
+    "font_digitali": [],
+    "nota_font": "Per lo studio usare modelli storici verificati.",
+    "fonti": [
+      {
+        "titolo": "The Metropolitan Museum of Art — Chinese Calligraphy",
+        "url": "https://www.metmuseum.org/essays/chinese-calligraphy"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "cinese_kaishu",
+    "nome": "Kaishu (scrittura regolare)",
+    "tradizione": "Cinese",
+    "periodo": "Sviluppo dopo la dinastia Han; modello maturo in epoca Tang",
+    "area": "Cina",
+    "descrizione": "Scrittura regolare con tratti distinti e struttura equilibrata. È fondamentale nell'apprendimento della scrittura e per la leggibilità dei caratteri cinesi.",
+    "caratteristiche": [
+      "tratti distinti",
+      "struttura equilibrata",
+      "alta leggibilità"
+    ],
+    "strumenti": "Pennello, inchiostro, carta e pietra da inchiostro.",
+    "font_digitali": [],
+    "nota_font": "Serve un font CJK adatto; il font non insegna i movimenti del pennello.",
+    "fonti": [
+      {
+        "titolo": "Smithsonian — Standard Script",
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/standard-script/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "cinese_xingshu",
+    "nome": "Xingshu (scrittura corrente)",
+    "tradizione": "Cinese",
+    "periodo": "Sviluppo durante la dinastia Han e nei secoli successivi",
+    "area": "Cina",
+    "descrizione": "Forma semicorsiva tra la regolarità del kaishu e la maggiore abbreviazione del caoshu. Consente un'esecuzione più fluida mantenendo spesso riconoscibili i caratteri.",
+    "caratteristiche": [
+      "movimento fluido",
+      "abbreviazione moderata",
+      "equilibrio tra velocità e leggibilità"
+    ],
+    "strumenti": "Pennello e inchiostro.",
+    "font_digitali": [],
+    "nota_font": "La qualità calligrafica dipende dalle forme dei caratteri e dal gesto, non solo dal font.",
+    "fonti": [
+      {
+        "titolo": "The Metropolitan Museum of Art — Chinese Calligraphy",
+        "url": "https://www.metmuseum.org/essays/chinese-calligraphy"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "cinese_caoshu",
+    "nome": "Caoshu (scrittura corsiva)",
+    "tradizione": "Cinese",
+    "periodo": "Dalla fine della dinastia Han; sviluppi fino all'epoca Tang",
+    "area": "Cina",
+    "descrizione": "Scrittura abbreviata e dinamica, in cui i tratti possono collegarsi in sequenze fluide. Può essere difficile da leggere senza studio: la libertà apparente si basa su una tradizione tecnica rigorosa.",
+    "caratteristiche": [
+      "abbreviazioni",
+      "collegamenti fluidi",
+      "ritmo gestuale"
+    ],
+    "strumenti": "Pennello e inchiostro.",
+    "font_digitali": [],
+    "nota_font": "Meglio mostrare esempi di maestri e spiegare la struttura dei tratti.",
+    "fonti": [
+      {
+        "titolo": "Smithsonian — Cursive Script",
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/cursive-script/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "giapponese_kaisho",
+    "nome": "Kaisho (forma regolare)",
+    "tradizione": "Giapponese",
+    "periodo": "Tradizione consolidata nell'antico Giappone",
+    "area": "Giappone",
+    "descrizione": "Forma regolare della calligrafia giapponese, con tratti distinti e struttura ordinata. È collegata alle tradizioni di scrittura cinese adottate in Giappone e resta importante nello shodō.",
+    "caratteristiche": [
+      "tratti distinti",
+      "struttura ordinata",
+      "leggibilità"
+    ],
+    "strumenti": "Pennello, inchiostro e carta.",
+    "font_digitali": [],
+    "nota_font": "Per i kanji serve un font giapponese; il font tipografico non riproduce la tecnica del pennello.",
+    "fonti": [
+      {
+        "titolo": "Tokyo National Museum — The Beauty of Japanese-style Calligraphy",
+        "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=1602&lang=en"
+      },
+      {
+        "titolo": "The Metropolitan Museum of Art — Brush Writing in Japan",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2013/brush-writing"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "giapponese_gyosho",
+    "nome": "Gyōsho (forma semicorsiva)",
+    "tradizione": "Giapponese",
+    "periodo": "Tradizione storica sviluppata da modelli sino-giapponesi",
+    "area": "Giappone",
+    "descrizione": "Forma semicorsiva che ammorbidisce la struttura regolare e collega alcuni movimenti del pennello. Mantiene un equilibrio tra fluidità e riconoscibilità.",
+    "caratteristiche": [
+      "tratti fluidi",
+      "collegamenti",
+      "corsività intermedia"
+    ],
+    "strumenti": "Pennello e inchiostro.",
+    "font_digitali": [],
+    "nota_font": "Gli esempi scritti a pennello sono più istruttivi di un semplice font.",
+    "fonti": [
+      {
+        "titolo": "The Metropolitan Museum of Art — Brush Writing in Japan",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2013/brush-writing"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "giapponese_sosho",
+    "nome": "Sōsho (forma corsiva)",
+    "tradizione": "Giapponese",
+    "periodo": "Tradizione storica derivata da modelli corsivi dell'Asia orientale",
+    "area": "Giappone",
+    "descrizione": "Forma fortemente corsiva, con semplificazioni e continuità del gesto. Può privilegiare ritmo ed espressività rispetto alla lettura immediata; sono essenziali i modelli e la pratica.",
+    "caratteristiche": [
+      "forte corsività",
+      "semplificazione",
+      "ritmo gestuale"
+    ],
+    "strumenti": "Pennello e inchiostro.",
+    "font_digitali": [],
+    "nota_font": "Non va simulata con un font script latino: richiede modelli e caratteri giapponesi appropriati.",
+    "fonti": [
+      {
+        "titolo": "Kyoto National Museum via Google Arts & Culture",
+        "url": "https://artsandculture.google.com/story/ZgWRI-CTWmJ3KQ"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "giapponese_kana",
+    "nome": "Calligrafia dei kana",
+    "tradizione": "Giapponese",
+    "periodo": "Sviluppo nel periodo Heian (794–1185)",
+    "area": "Giappone",
+    "descrizione": "I kana si svilupparono da forme semplificate di caratteri cinesi e favorirono una tradizione legata alla poesia e alla cultura di corte. Nei manoscritti Heian le linee possono essere sinuose e ritmiche.",
+    "caratteristiche": [
+      "scrittura fonetica giapponese",
+      "linee fluide",
+      "legame con poesia e corte"
+    ],
+    "strumenti": "Pennello e inchiostro su carta giapponese.",
+    "font_digitali": [],
+    "nota_font": "Per una resa attendibile servono esempi storici e un font giapponese adatto ai kana.",
+    "fonti": [
+      {
+        "titolo": "Tokyo National Museum — The Beauty of Japanese-style Calligraphy",
+        "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=1602&lang=en"
+      },
+      {
+        "titolo": "Kyoto National Museum via Google Arts & Culture",
+        "url": "https://artsandculture.google.com/story/ZgWRI-CTWmJ3KQ"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Segui l'ordine tradizionale dei tratti del singolo carattere: in generale dall'alto verso il basso e da sinistra verso destra, con regole specifiche per incroci, componenti e tratti di chiusura. L'ordine va verificato carattere per carattere.",
+      "strumento": "Pennello, inchiostro, carta e piano di preparazione. La punta deve essere integra e capace di tornare in forma; quantità d'inchiostro e umidità della carta cambiano il risultato.",
+      "angolo_pressione": "Controlla postura, direzione del pennello, pressione e sollevamento. I tratti possono iniziare con appoggio, cambiare pressione durante il percorso e terminare con arresto o rilascio; i gesti dipendono dal tratto specifico.",
+      "proporzioni": "Organizza il carattere nel suo spazio ideale, bilanciando componenti, centro visivo, pieni e vuoti. In Giappone considera anche il formato e il ritmo della composizione shodō.",
+      "esercizio": "Studia prima i tratti fondamentali, poi i caratteri modello. Ripeti lentamente l'ordine dei tratti e solo dopo lavora su ritmo, continuità ed espressività."
+    },
+    "passi_esercizio": [
+      "Prepara pennello, inchiostro e carta; verifica che la punta sia integra e ben ricomposta.",
+      "Esercita separatamente tratti base: orizzontale, verticale, punto e tratto discendente, secondo il modello didattico adottato.",
+      "Per ogni tratto distingui attacco, percorso e chiusura: appoggio, variazione di pressione e sollevamento non sono intercambiabili.",
+      "Scegli un singolo carattere modello e riproduci l'ordine dei tratti verificato per quel carattere.",
+      "Confronta equilibrio, centro, spazi vuoti e dimensione dei componenti prima di aumentare la velocità."
+    ]
+  },
+  {
+    "id": "occidentale_bastarda",
+    "nome": "Bastarda (scrittura bastarda)",
+    "tradizione": "Occidentale",
+    "periodo": "Tardo Medioevo, soprattutto XIV–XV secolo",
+    "area": "Francia, Paesi Bassi e altre regioni dell'Europa occidentale",
+    "descrizione": "Famiglia di scritture librarie e documentarie che combina elementi corsivi e forme gotiche. Le varianti regionali sono numerose: la scheda introduce la famiglia senza imporre un unico alfabeto canonico.",
+    "caratteristiche": [
+      "andamento più corsivo",
+      "forme gotiche",
+      "varianti regionali"
+    ],
+    "strumenti": "Penna a punta larga; larghezza e taglio vanno ricavati dall'esemplare scelto.",
+    "font_digitali": [
+      "UnifrakturMaguntia"
+    ],
+    "nota_font": "Il font suggerito è solo un richiamo estetico e non riproduce una mano bastarda storica.",
+    "fonti": [
+      {
+        "titolo": "British Library — Medieval manuscripts",
+        "url": "https://www.bl.uk/manuscripts/"
+      },
+      {
+        "titolo": "Ad fontes — University of Zurich",
+        "url": "https://www.adfontes.uzh.ch/en/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Scomponi le forme in aste, archi, tratti spezzati e raccordi osservando una mano o un modello specifico. Le varianti storiche non condividono un ductus unico.",
+      "strumento": "Penna a punta larga per la pratica calligrafica; scegli larghezza e taglio in base all'esemplare di riferimento.",
+      "angolo_pressione": "Mantieni stabile l'orientamento della punta durante i tratti; variazione e contrasto dipendono dal taglio, dalla direzione e dal modello adottato.",
+      "proporzioni": "Rileva altezza, larghezza, aste e spazi interni dall'esemplare scelto, evitando una griglia universale per tutte le varianti.",
+      "esercizio": "Allena aste parallele, curve e spezzature; copia poi poche lettere modello e confronta ritmo, densità e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli una variante storica precisa e osserva un esemplare datato o un facsimile affidabile.",
+      "Prepara le guide ricavando altezza e inclinazione dal modello, non da una regola generica.",
+      "Esercita aste, archi e tratti spezzati con penna a punta larga.",
+      "Copia alcune lettere isolate rispettando forma e ritmo della variante scelta.",
+      "Controlla densità, spazi interni e regolarità prima di comporre parole."
+    ]
+  },
+  {
+    "id": "occidentale_fraktur",
+    "nome": "Fraktur",
+    "tradizione": "Occidentale",
+    "periodo": "Dal XVI secolo; ampia diffusione in età moderna",
+    "area": "Territori di lingua tedesca e aree dell'Europa centrale",
+    "descrizione": "Scrittura e famiglia tipografica gotica caratterizzata da contrasti tra tratti spezzati e curve, con forme distintive. La Fraktur manoscritta e quella tipografica sono correlate ma non intercambiabili.",
+    "caratteristiche": [
+      "forme spezzate",
+      "contrasti tra curve e angoli",
+      "tradizione germanica"
+    ],
+    "strumenti": "Per esercizi calligrafici, penna a punta larga; per la storia della stampa, caratteri tipografici Fraktur.",
+    "font_digitali": [
+      "UnifrakturMaguntia",
+      "Fette Fraktur"
+    ],
+    "nota_font": "I caratteri digitali rappresentano disegni tipografici moderni o revival, non il ductus di una penna.",
+    "fonti": [
+      {
+        "titolo": "Germanisches Nationalmuseum",
+        "url": "https://www.gnm.de/"
+      },
+      {
+        "titolo": "British Library — Medieval manuscripts",
+        "url": "https://www.bl.uk/manuscripts/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Scomponi le forme in aste, archi, tratti spezzati e raccordi osservando una mano o un modello specifico. Le varianti storiche non condividono un ductus unico.",
+      "strumento": "Penna a punta larga per la pratica calligrafica; scegli larghezza e taglio in base all'esemplare di riferimento.",
+      "angolo_pressione": "Mantieni stabile l'orientamento della punta durante i tratti; variazione e contrasto dipendono dal taglio, dalla direzione e dal modello adottato.",
+      "proporzioni": "Rileva altezza, larghezza, aste e spazi interni dall'esemplare scelto, evitando una griglia universale per tutte le varianti.",
+      "esercizio": "Allena aste parallele, curve e spezzature; copia poi poche lettere modello e confronta ritmo, densità e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli una variante storica precisa e osserva un esemplare datato o un facsimile affidabile.",
+      "Prepara le guide ricavando altezza e inclinazione dal modello, non da una regola generica.",
+      "Esercita aste, archi e tratti spezzati con penna a punta larga.",
+      "Copia alcune lettere isolate rispettando forma e ritmo della variante scelta.",
+      "Controlla densità, spazi interni e regolarità prima di comporre parole."
+    ]
+  },
+  {
+    "id": "occidentale_spencerian",
+    "nome": "Spencerian",
+    "tradizione": "Occidentale",
+    "periodo": "XIX secolo",
+    "area": "Stati Uniti",
+    "descrizione": "Sistema di scrittura corsiva ottocentesco associato alla penna flessibile, al ritmo leggero e a forme inclinate. La pratica richiede controllo del movimento, pressione moderata e continuità; i modelli variano tra manuali e scuole.",
+    "caratteristiche": [
+      "tratto leggero",
+      "inclinazione",
+      "movimento ritmico",
+      "pennino flessibile"
+    ],
+    "strumenti": "Pennino flessibile a punta fine, portapennino, inchiostro fluido e carta liscia.",
+    "font_digitali": [
+      "Spencerian Script",
+      "Allura"
+    ],
+    "nota_font": "I font sono simulazioni estetiche: non riproducono pressione, ritmo né ductus manuale.",
+    "fonti": [
+      {
+        "titolo": "Internet Archive — Spencerian penmanship manuals",
+        "url": "https://archive.org/search?query=spencerian+penmanship"
+      },
+      {
+        "titolo": "Library of Congress",
+        "url": "https://www.loc.gov/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Studia ovali, curve leggere, aste e raccordi con movimento continuo. Il ductus preciso va seguito su un manuale o esemplare Spencerian identificato; evita di trasferire automaticamente le sequenze della Copperplate.",
+      "strumento": "Pennino flessibile fine, portapennino e inchiostro fluido su carta liscia.",
+      "angolo_pressione": "Mantieni l'inclinazione del modello e usa pressione leggera; riserva l'apertura del pennino ai discendenti previsti, senza cercare contrasti eccessivi.",
+      "proporzioni": "Imposta altezza x, inclinazione, spaziatura e proporzioni sulla base del manuale scelto. Le misure possono variare tra modelli Spencerian.",
+      "esercizio": "Pratica ovali, curve e collegamenti a bassa velocità; poi passa alle lettere e alle parole, controllando ritmo e leggerezza."
+    },
+    "passi_esercizio": [
+      "Prepara carta liscia e righe guida; scegli un manuale Spencerian come modello dichiarato.",
+      "Esegui ovali e curve leggere con movimento continuo, senza cercare subito velocità.",
+      "Pratica aste e discendenti con pressione controllata e rilascio progressivo.",
+      "Collega poche lettere seguendo il ductus del modello scelto.",
+      "Confronta inclinazione, ritmo, spaziatura e leggerezza del tratto."
+    ]
+  },
+  {
+    "id": "occidentale_capitale_romana",
+    "nome": "Capitale Romana (Capitalis Monumentalis)",
+    "tradizione": "Occidentale",
+    "periodo": "Antica Roma; attestazioni monumentali soprattutto dal I secolo d.C.",
+    "area": "Roma e territori dell'Impero romano",
+    "descrizione": "Scrittura maiuscola monumentale lapidaria, con proporzioni calibrate e forme capitali. Le iscrizioni scolpite non vanno confuse con una ricostruzione unica della scrittura quotidiana romana.",
+    "caratteristiche": [
+      "maiuscole monumentali",
+      "proporzioni e spaziature calibrate",
+      "forme epigrafiche"
+    ],
+    "strumenti": "Per esercitarsi: pennino largo o pennello piatto; storicamente le iscrizioni sono tracciate e scolpite su pietra.",
+    "font_digitali": [
+      "Cinzel",
+      "Trajan Pro"
+    ],
+    "nota_font": "I caratteri digitali evocano le capitali romane ma non riproducono il gesto dello scalpellino.",
+    "fonti": [
+      {
+        "titolo": "Epigraphic Database Heidelberg",
+        "url": "https://edh.ub.uni-heidelberg.de/"
+      },
+      {
+        "titolo": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/toah/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_rustica",
+    "nome": "Rustica Romana (Capitalis Rustica)",
+    "tradizione": "Occidentale",
+    "periodo": "Antichità romana e tarda antichità",
+    "area": "Mondo romano e latino",
+    "descrizione": "Scrittura libraria maiuscola con lettere strette e slanciate, spesso realizzate con ritmo rapido e uso economico dello spazio. Le forme variano tra manoscritti e periodi.",
+    "caratteristiche": [
+      "lettere strette e alte",
+      "ritmo energico",
+      "modulazione della punta larga"
+    ],
+    "strumenti": "Calamo o penna a punta larga e inchiostro su papiro o pergamena; per la pratica moderna pennino tronco.",
+    "font_digitali": [
+      "Forum",
+      "Cinzel"
+    ],
+    "nota_font": "I font sono riferimenti estetici; per il ductus occorre osservare facsimili di manoscritti specifici.",
+    "fonti": [
+      {
+        "titolo": "British Library — Medieval manuscripts",
+        "url": "https://www.bl.uk/manuscripts/"
+      },
+      {
+        "titolo": "Bodleian Libraries Digital Collections",
+        "url": "https://digital.bodleian.ox.ac.uk/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_kurrent",
+    "nome": "Kurrent",
+    "tradizione": "Occidentale",
+    "periodo": "Età moderna; uso diffuso nei territori germanofoni fino al XX secolo",
+    "area": "Germania e aree germanofone",
+    "descrizione": "Famiglia di corsive storiche tedesche, con forme angolose e legature caratteristiche. Le varianti cambiano nel tempo e secondo i modelli scolastici e documentari.",
+    "caratteristiche": [
+      "corsività angolosa",
+      "legature fitte",
+      "varianti storiche e regionali"
+    ],
+    "strumenti": "Penna scolastica o pennino adatto al modello scelto; carta rigata e inchiostro.",
+    "font_digitali": [],
+    "nota_font": "Non confondere Kurrent con Fraktur tipografica: sono tradizioni grafiche differenti.",
+    "fonti": [
+      {
+        "titolo": "Deutsche Digitale Bibliothek",
+        "url": "https://www.deutsche-digitale-bibliothek.de/"
+      },
+      {
+        "titolo": "Staatsbibliothek zu Berlin",
+        "url": "https://staatsbibliothek-berlin.de/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_sutterlin",
+    "nome": "Sütterlin",
+    "tradizione": "Occidentale",
+    "periodo": "Dal 1915",
+    "area": "Prussia e successivamente aree di lingua tedesca",
+    "descrizione": "Modello scolastico di scrittura sviluppato da Ludwig Sütterlin e introdotto in Prussia nel 1915. È distinto dalle più ampie famiglie storiche della Kurrent, pur appartenendo alla tradizione della corsiva tedesca.",
+    "caratteristiche": [
+      "modello scolastico standardizzato",
+      "forme verticali e angolose",
+      "legature regolari"
+    ],
+    "strumenti": "Penna scolastica e carta rigata; studiare le tavole didattiche del modello.",
+    "font_digitali": [],
+    "nota_font": "Per imparare la Sütterlin è preferibile una tavola alfabetica documentata, non un font decorativo generico.",
+    "fonti": [
+      {
+        "titolo": "Deutsche Digitale Bibliothek",
+        "url": "https://www.deutsche-digitale-bibliothek.de/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_batarde_francaise",
+    "nome": "Bâtarde Française",
+    "tradizione": "Occidentale",
+    "periodo": "Tardo Medioevo e prima età moderna",
+    "area": "Francia e aree francofone",
+    "descrizione": "Denominazione usata per varianti corsive di tradizione gotica francese. Le caratteristiche dipendono dalla regione, dalla funzione del documento e dalla mano presa a modello.",
+    "caratteristiche": [
+      "andamento corsivo gotico",
+      "legature e forme variabili",
+      "rapporto tra scrittura libraria e documentaria"
+    ],
+    "strumenti": "Penna a punta media o larga, secondo il facsimile; esercitare prima aste, occhielli e legature.",
+    "font_digitali": [
+      "Pirata One"
+    ],
+    "nota_font": "I font suggeriti sono evocativi e non costituiscono una ricostruzione storica della Bâtarde.",
+    "fonti": [
+      {
+        "titolo": "Gallica — Bibliothèque nationale de France",
+        "url": "https://gallica.bnf.fr/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_textura_quadrata",
+    "nome": "Textura Quadrata",
+    "tradizione": "Occidentale",
+    "periodo": "XIII–XV secolo",
+    "area": "Europa occidentale e centrale",
+    "descrizione": "Forma di Textualis gotica caratterizzata da lettere dense e spezzature regolari, con terminali quadrangolari prodotti dal pennino largo e dal ritmo della scrittura.",
+    "caratteristiche": [
+      "moduli verticali ravvicinati",
+      "terminali quadrangolari",
+      "ritmo compatto e regolare"
+    ],
+    "strumenti": "Pennino tronco con angolo costante, inchiostro e carta o pergamena.",
+    "font_digitali": [
+      "UnifrakturMaguntia"
+    ],
+    "nota_font": "Il font è un ausilio visivo: il ductus va ricostruito da un esemplare manoscritto preciso.",
+    "fonti": [
+      {
+        "titolo": "Ad fontes — University of Zurich",
+        "url": "https://www.adfontes.uzh.ch/en/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "occidentale_gotica_cursiva",
+    "nome": "Gotica Cursiva",
+    "tradizione": "Occidentale",
+    "periodo": "Dal XIII secolo, con numerose varianti tardomedievali",
+    "area": "Europa occidentale",
+    "descrizione": "Insieme di mani gotiche corsive usate in contesti documentari e librari meno formali. La velocità e le legature influenzano l'aspetto, ma non esiste un unico modello universale.",
+    "caratteristiche": [
+      "legature frequenti",
+      "forme semplificate e corsive",
+      "variazione secondo funzione e area"
+    ],
+    "strumenti": "Penna a punta media o larga; osservare la velocità e i collegamenti del modello scelto.",
+    "font_digitali": [
+      "Pirata One"
+    ],
+    "nota_font": "I font blackletter non riproducono necessariamente la corsiva gotica manoscritta.",
+    "fonti": [
+      {
+        "titolo": "Ad fontes — University of Zurich",
+        "url": "https://www.adfontes.uzh.ch/en/tutorium/schriften-lesen/schriftgeschichte/spaetkarolingische-und-fruehgotische-minuskeln"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Osserva il modello e scomponi la lettera in tratti elementari: aste, curve, archi e raccordi. L'ordine e il numero dei tratti variano tra alfabeti, epoche e mani; non vanno dedotti dal solo profilo del carattere.",
+      "strumento": "Penna d'oca o pennino a punta larga con inchiostro, secondo la tradizione e il periodo indicati nella scheda.",
+      "angolo_pressione": "Nelle scritture a punta larga la modulazione deriva soprattutto dall'orientamento del taglio rispetto alla direzione del movimento; la pressione deve restare controllata e non sostituisce la rotazione della punta.",
+      "proporzioni": "Prepara linea di base, altezza delle lettere, rapporto tra corpo e aste, larghezza e spaziatura. Ricava le misure da un esemplare attendibile.",
+      "esercizio": "Esegui serie di tratti paralleli e curve, poi lettere isolate e parole. Verifica ritmo, allineamento e spazi bianchi."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  },
+  {
+    "id": "moderna_brush_lettering",
+    "nome": "Brush Lettering",
+    "tradizione": "Moderna",
+    "periodo": "XX–XXI secolo",
+    "area": "Internazionale",
+    "descrizione": "Pratica contemporanea di lettering con pennello o brush pen. La qualità del tratto dipende da direzione, pressione, velocità e controllo del pennello; non è una singola scrittura storica.",
+    "caratteristiche": [
+      "variazione di spessore tramite pressione",
+      "tratti ascendenti leggeri e discendenti più pieni",
+      "ampia libertà compositiva"
+    ],
+    "strumenti": "Brush pen, pennello tondo o piatto, carta adatta e matita per le guide.",
+    "font_digitali": [
+      "Kaushan Script",
+      "Pacifico"
+    ],
+    "nota_font": "I font sono riferimenti estetici e non sostituiscono la pratica del pennello.",
+    "fonti": [
+      {
+        "titolo": "The Getty — Collection",
+        "url": "https://www.getty.edu/art/collection/"
+      }
+    ],
+    "guida_tecnica": {
+      "ductus": "Scomponi la forma secondo un modello verificato della tradizione specifica. Non esiste una sequenza universale applicabile a tutte le scritture.",
+      "strumento": "Brush pen, pennello tondo o piatto, carta adatta e matita per le guide.",
+      "angolo_pressione": "Regola angolo e pressione in base alla punta e al gesto previsti dal modello; osserva inizio, variazione e termine di ogni tratto.",
+      "proporzioni": "Rileva proporzioni e allineamenti direttamente da un esemplare attendibile.",
+      "esercizio": "Procedi dai tratti fondamentali alle lettere o ai caratteri, mantenendo un modello di riferimento."
+    },
+    "passi_esercizio": [
+      "Scegli un esemplare storico o didattico identificato per stile, area e periodo.",
+      "Segna linea di base, altezza del corpo e proporzioni principali osservabili nel modello.",
+      "Isola i tratti ricorrenti e ripetili lentamente con lo strumento indicato nella scheda.",
+      "Copia una lettera o un segno alla volta seguendo l'ordine dei tratti documentato per quel modello.",
+      "Confronta forma, ritmo, spazi bianchi e allineamento; annota le differenze senza inventare passaggi."
+    ]
+  }
+]
